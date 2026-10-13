@@ -20,3 +20,6 @@ Our name is Buttondown with one capital B. Not ButtonDown, Button Down, Buttondo
 - Buttondown Blue (`#0069FF`)
 - Eigengray (`#3D3E4C`)
 - Ice White (`#F9FAFB`)
+
+## Questions?
+Just [send us a message](mailto:support@buttondown.com), and we'd be happy to help! 💙
